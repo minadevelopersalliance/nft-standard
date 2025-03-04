@@ -2,6 +2,16 @@
 
 The MinaNFT project is an innovative Non-Fungible Token (NFT) platform that integrates the unique privacy features of the Mina blockchain. It is designed to redefine the NFT space by offering a range of functionalities that go beyond traditional NFT capabilities.
 
+## Update March 2025
+
+The new version of contracts is available at
+
+https://github.com/SilvanaOne/silvana-lib/tree/main/packages/nft
+
+The docs:
+
+https://docs.minanft.io/
+
 ## Contracts Code
 
 ### NFT Standard Contracts
